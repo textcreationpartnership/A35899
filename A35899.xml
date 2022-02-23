@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the Pope and a phanatick concerning affairs in England by a hearty lover of his prince and country.</title>
+            <author>Hearty lover of his prince and country.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35899</idno>
+            <idno type="STC">Wing D1333</idno>
+            <idno type="STC">ESTC R1953</idno>
+            <idno type="EEBO-CITATION">12265329</idno>
+            <idno type="OCLC">ocm 12265329</idno>
+            <idno type="VID">58036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 180:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the Pope and a phanatick concerning affairs in England by a hearty lover of his prince and country.</title>
+                  <author>Hearty lover of his prince and country.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  Anecdotes</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Anecdotes</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58036:1"/>
+            <pb facs="tcp:58036:1" rendition="simple:additions"/>
+            <p>A DIALOGUE Between the POPE AND A PHANATICK, Concerning Affairs in <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>By a Hearty Lover of his Prince and Country.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:58036:2"/>
+            <pb n="3" facs="tcp:58036:2"/>
+            <head>A Dialogue between the POPE and a PHANATICK.</head>
+            <sp>
+               <speaker>POPE,</speaker>
+               <p>Brother well met: How do all my Nephews in the North?</p>
+            </sp>
+            <sp>
+               <speaker>Phanatick.</speaker>
+               <p>Through Mercy and Indulgence we are all in a very proſperous and hopeful condition.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>My <hi>Jeſuits, Franciſcans, Dominicans, Capuchins,</hi> &amp;c. Salute your Religious Orders, <hi>Preſbyterians, Independents, Anabaptiſts, Quakers,</hi> &amp;c. And eſpecially my Societies of <hi>Mendicants</hi> preſent their moſt complying Reſpects to your new Order of <hi>Petitioners.</hi> I can proceed no further than the firſt Scene of a Plot, but I ſee Fate will reſerve the laſt Act to be your part. My <hi>Armada</hi> miſcarried in <hi>Eighty Eight.</hi> The Powder would not fire upon King <hi>James;</hi> after this I conſidered that the Wiſdom and Piety of <hi>Charles</hi> the I. would have given too much Luſtre to the <hi>Britiſh</hi> Church, and have been too great a Glory for the Reformation, and therefore I did as much ſtudy the Deſtruction of <hi>Charles</hi> the Firſt, as ever I did the ruin of the Second.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>I know you did, for I remember I was at a Con<g ref="char:EOLhyphen"/>ſult with your Nuncio at <hi>London</hi> in the laſt Holy War.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>But all my Arts had been ineffectual without your Alliance, for I muſt confeſs the carrying on of that War was your Merit, and your hand had the Reputation to ſtrike that blow which made a Jubilee at <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>We hate the <hi>Italian</hi> way of King-Killing, we have no Ruffians among the Saints; there is more ſhew of Conſcience and Judgment in a High Court of Juſtice, than in Poyſon and Piſtol.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:58036:3"/>
+               <speaker>Pope.</speaker>
+               <p>So we can but diſpatch another <hi>Charles,</hi> 'tis indif<g ref="char:EOLhyphen"/>ferent to me whether he falls after the <hi>Engliſh</hi> or the <hi>Itali<g ref="char:EOLhyphen"/>an</hi> mode.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Sir you have not well conſidered the matter, for the preſent Juncture gives me a great advantage; the people are ſo fully poſſeſſt with the horror of the Popiſh Plot, and are ſo vehemently prejudiced againſt the <hi>Romiſh</hi> Proſelytes and Religion, that I might diſpatch the King with Bullet or Dagger, and the Papiſts in <hi>England</hi> ſhould die for the Fact, and <hi>Thames</hi> and <hi>Tweed</hi> would be tur<g ref="char:EOLhyphen"/>ned into blood, before your Friend at <hi>Edinburgh</hi> ſhould arrive at St. <hi>James</hi>'s; nay, though I ſhould be ſo unfor<g ref="char:EOLhyphen"/>tunate as to Kill the King with a Witneſs, to be ſure I ſhould have the common Grace to deny it, and then per<g ref="char:EOLhyphen"/>ſons of the greateſt credit upon Earth would be no Evi<g ref="char:EOLhyphen"/>dence, the Multitude would believe they were as falſe Witneſſes, as thoſe that accuſed Jeſus; nay, if a voice from Heaven ſhould give Teſtimony againſt me, the peo<g ref="char:EOLhyphen"/>le like the <hi>Jews</hi> would ſay it Thundred, or think it only the cheat of a Speaking-Trumpet: moſt would be perſua<g ref="char:EOLhyphen"/>ded that my Accuſation was only a Popiſh intrigue to caſt the Plot upon the <hi>Presbyterians.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Well, if you will Aſſaſſinate the King, there would be ſo much Value and Merit in the Sacrifice, it will be worth the adventure of a Maſſacre.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Nay, Sir, I confeſs, I am yet moſt inclined to the Precedent of an High Court of Juſtice, for 'tis moſt honor for the Saints to bind the Kings in Chains, and their Nobles with Links of Iron, to make them our Priſoners, to Cut them off with the Pomp and Solemnity of Publick Juſtice; and to this purpoſe we are already provided of a Preſident, and there is no fear of wanting Lawyers to plead for the Commons, and to Arraign the King; the Scaffolds ſtand ſtill at <hi>Weſtminſter-Hall,</hi> and who knows for whom they wait? Beſides, if you remark the hints
+<pb n="5" facs="tcp:58036:3"/>of Providence, or the ſigns of the times, you may ob<g ref="char:EOLhyphen"/>ſerve, that Heaven it ſelf intends, we ſhould Act over the ſame things again, for we have a Parliament of the ſame Genius with that of <hi>Forty One,</hi> there is a <hi>Charles</hi> again at <hi>Weſtminſter,</hi> a <hi>William</hi> in <hi>Canterbury,</hi> an Earl <hi>Thomas</hi> in the <hi>Tower,</hi> and the ſame Crucifying Leſſon that happened upon the thirtieth of <hi>January,</hi> falls exactly in Rubrick up<g ref="char:EOLhyphen"/>on the twenty ninth of <hi>May.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I wiſh the event of theſe fatal ſuggeſtions may confirm your Interpretation, but the Kings mounting of his Guns, and doubling his Guards, and bold Proroguing and Diſſolving of Parliaments, looks as if he had no mind to the Crown of Martyrdom; and I am afraid your obſervation of that Critical Leſſon in the <hi>Engliſh</hi> Calen<g ref="char:EOLhyphen"/>dar ſhould have another importance, and ſhould portend that <hi>Charles</hi> tte Second was born to revenge the blood of the Firſt. But our Attempts from the <hi>South</hi> have been ſo unfortunate, that I begin to think that there is in it ſome propriety of Fate, and that this <hi>Scottiſh</hi> Line muſt only be ruined by the <hi>Northern</hi> Covenanters, and beſides, you may do it with more ſecurity, for I ſee a <hi>Phanatik</hi> may Murther with leſs noiſe, and greater priviledg, than a <hi>Jeſuit:</hi> For when we puft out of the world that meer ſhadow of a Knight, Sir <hi>E. B. G.</hi> his death Alarm'd the Nation, and made as great an Earthquake as the fall of Charles the Firſt; but you could Aſſaſſinate the Primate of an whole Kingdom, one of the Chief Miniſters of Church and State, and this done too with greater Cir<g ref="char:EOLhyphen"/>cumſtances of Barbarity; and yet this Fact was reported with ſoft whiſpers and kind palliations.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Well, after all this, by the Doctrine of our Ca<g ref="char:EOLhyphen"/>ſuiſts we are no King-Killers, for when a Prince deveſts himſelf of Royal Power and Prerogative by Conceſſions and Condeſcenſions, or when a mighty Parliament have beaten, or dethroned the King, then to deſtroy him; is
+<pb n="6" facs="tcp:58036:4"/>no more Regicide, than to Shoot through the ſign of the Kings-Head, or Stab the Picture of His Majeſty.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Well, I will ſay you out-do the whole world in Politicks, if you can bring two Kings to the Bar in one Age.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Alas! Your Cardinals Hats are ſhallow things, and your Triple Crown looks like a Fools Cap; we have one ſingle Head amongſt us, that Wit enough to baffle Twelve <hi>Caeſars,</hi> a Gentleman well ſtudied in the Philoſophy of Alterations, and the Heroick vertue of affronting Princes.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I am glad to hear you have ſo great a Head, I hope you remember that the primary intention of our League, is to deſtroy that Epiſcopal Church of <hi>England,</hi> that Church which is rude to the Saints, and will worſhip nothing in Heaven but God, and nothing upon Earth but the King and his two Idols of Prerogative and Suprema<g ref="char:EOLhyphen"/>cy, thoſe Pagan Teraphims, to which you and I will never bow; 'tis the ruin of this Church, that I do chiefly in<g ref="char:EOLhyphen"/>tend, and if the King falls in the Quarrel, he dies by ac<g ref="char:EOLhyphen"/>cident.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Sir, you know I am obliged to this, both by So<g ref="char:EOLhyphen"/>lemn League and Intereſt, and though like you I can di<g ref="char:EOLhyphen"/>ſpenſe with Vows of Baptiſm, and Oaths of Allegiance, and ſuch like Complements of State and Religion; Yet I make a Conſcience of the Covenant, and therefore never doubt my Fidelity, for I will ſerve you a s faithfully as your Caſtle of St. <hi>Angelo,</hi> or the Knights of <hi>Malta.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I have no reaſon to queſtion that, but I would gladly underſtand how far matters are advanced, and what hopeful proſpect you have of ſucceſs in this grand Affair; but firſt let me know by what Arts you have rendred your ſelves ſo Popular; for I believe the <hi>Engliſh</hi> have a worſe Opinion, and a greater abhorrence, of me, than they have of the Devil, for they are ſo Civil to him as not to
+<pb n="7" facs="tcp:58036:4"/>torment him before his time, no, not ſo lmuch as in <hi>Effigie;</hi> there is none of you would affront him ſo much as to burn his Sign at the Devil-Tavern, but look upon it with a greater veneration than upon the ſign of the Croſs; but the burning of the Pope is an Annual Triumph and So<g ref="char:EOLhyphen"/>lemnity, and the people are only ſorry that it is but an Ef<g ref="char:EOLhyphen"/>figies, and that the Fire is not unquenchable.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>My firſt Art is a Form of Godlineſs, the only Form I value in the world, for I find that a diſſembled Piety does more abundantly ſerve our intereſt, than a ſtrict ſincerity, which is therefore juſtly called the ſimplicity of Religion; publick Sobriety is an excellent Stratagem, and wins upon the vulgar, and the Style and Formality of Holineſs have done me as much ſervice in <hi>England,</hi> as it does you at <hi>Rome;</hi> and I thingk I may challenge the Ti<g ref="char:EOLhyphen"/>tle as juſtly as you, I prevail upon the minds of men by juſt ſuch methods as your <hi>Jeſuits</hi> Converted the <hi>Chineſes,</hi> not by ſtrength of Reaſon or Argument, but by Glaſſes and Clocks, Painted Maps and Books well guilded, thus I gain upon the people with Spiritual Fancies, well ſoun<g ref="char:EOLhyphen"/>ding words, fine Enthuſiaſms and Allegories, thoſe Priſmes of Divinity, and this will be an infallible Arti<g ref="char:EOLhyphen"/>fice; for the common people of <hi>England</hi> have no more judgment in Theology, than the <hi>Chineſe</hi> had in Mathema<g ref="char:EOLhyphen"/>ticks; and if the Preacher, like the <hi>European</hi> Clock at <hi>Pequin</hi> ſtrikes alone, and makes a noiſe without Book, whether he ſounds true or falſe, it paſſes for Inſpiration, and the voice of God; one ſucceſsful Stratagem to betray and confound the Church is this, by our ſure <hi>Patronatus</hi> we Poſt within the Eſtabliſh'd Church as many Uncon<g ref="char:EOLhyphen"/>forming Miniſters as we can, with the Popular Title of Sober and Moderate men; and your Caſuiſts and mine have taught them Salvoes enough to diſpenſe with Cano<g ref="char:EOLhyphen"/>nical Oaths and Subſcriptions; and by this Art we have reduced many hundred Pariſh-Churches into Conventi<g ref="char:EOLhyphen"/>cles,
+<pb n="8" facs="tcp:58036:5"/>whoſe Service and Aſſemblies look no more like the Church of <hi>England,</hi> than the Cantons of <hi>Swiſſerland;</hi> and by this care and caution in preſenting, we have aſſured to our ſelves in every County ſome of the Clergy to Poll a<g ref="char:EOLhyphen"/>gainſt the Church: And you know in a Siege one Enemy within the Walls is worth a Regiment without.</p>
+               <p>But we never preſent any High Conformiſt, except he be well qualified with little Learning and great Immora<g ref="char:EOLhyphen"/>lities, and then the Ignorance and Debauchery of the one doth us as much ſervice as the Nonconformity of the other. But my moſt effectual Artifice to ruin our common Enemy the Church of <hi>England,</hi> is to clamor againſt her with the loud cries of Popery, and though this Church ſtands upon the Old Foundation of its firſt Reformation, yet my bold <hi>Timariot Lewis du-Moulin</hi> have made the people believe that ſhe is advanced within one hours ſail of <hi>Rome;</hi> and the uneducated Commons of <hi>England,</hi> and the half-witted Gentlemen, are ſo happily eaſie and credulous, that I can impoſe upon them what I pleaſe, eſpecially in the fears and jealouſies of Popery; there is an Antient Law that looks like Nature and Morality, land I wiſh the Parli<g ref="char:EOLhyphen"/>ament would Repeal it, and that is, That men ſhould bow down and worſhip God, when they come to addreſs to him in their Publick Devotions; now if any High Church<g ref="char:EOLhyphen"/>man of <hi>England,</hi> when he enters a Cathedral, ſhould pay this Homage of Adoration, if there be a Candleſtick, or an Eagle of Braſs in the Quire, I make the world believe that he worſhips the Brazen Serpent, or if there be at the Eaſt end ſome fine Painted Faces with gilded Wings, then I perſuade my Proſelytes, that the bowing that way, is the Superſtitious Humility or Worſhipping of Angels, which the Apoſtle condemns; I can make them believe, without any further queſtion, that the Singing of Hymns and Pſalms according to the Cathedral manner, was a Popiſh invention, and Pointed by Antichriſt and that
+<pb n="9" facs="tcp:58036:5"/>Chriſt and his Apoſtles Sung the Paſchal Pſalm in the Tune of <hi>Hopkins</hi> and <hi>Sternhold.</hi> Sir, there is ſuch an Om<g ref="char:EOLhyphen"/>nipotence in your name, that you can be no leſs than the Vicar of the Almighty; the meer word of Pope or Pope<g ref="char:EOLhyphen"/>ry works Miracles in <hi>England;</hi> if there ſtands in my way a Monarchical Gentleman of a flouriſhing Reputation, I do but breath upon him, and ſay he is Popiſhly affected, and he is as ſoon blaſted and withered as the Fig-Tree in the Geſpel; it was that dear word Popery, which once be<g ref="char:EOLhyphen"/>fore blew up Church and State, whipt off the Heads of King and <hi>Canterbury;</hi> nay, there is ſo much magick in it, that the very buzze of Popery will Conjure up a Preſby<g ref="char:EOLhyphen"/>terian Parliament; nay, there are ſuch wonders in this name, that I believe, the fears of Popery may be ſo cun<g ref="char:EOLhyphen"/>ningly managed, as at laſt to bring it in without any jea<g ref="char:EOLhyphen"/>louſie at all, and all this time the people believe that you and I are direct Antipodies, though we lye in the ſame Parallel, and are equal Enemies to the Divine Right of Kings and Biſhops.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>In this conſiſts the ſtrength of all our Strategems, and to continue this profitable deluſion, I requeſt you to continue me the friendſhip of your Raillery, for you are never ſo kind to me, as when you clamor loudeſt againſt me, for if once our Correſpondence be diſcovered, all our Politicks are defeated.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>I never Paint you without the Devil at your El<g ref="char:EOLhyphen"/>bow, and then I make you look the worſt of the two; never fear a Diſcovery of our Compliance, for 'tis be<g ref="char:EOLhyphen"/>yond the reach of Mechanicks and half brained Gentle<g ref="char:EOLhyphen"/>men to underſtand the fineſſes betwixt you and I; indeed the ill-timed motion of our <hi>Scottiſh</hi> Brethren might have given the world an unlucky ſuſpicion of our Confederacy, for there being a Synchronyſm in our Plots, and ſuch an agreement in our deſigns, it might have given a vehe<g ref="char:EOLhyphen"/>ment preſumption of our Compliance, if we had not had
+<pb n="10" facs="tcp:58036:6"/>a good ſtock of Friends and Confidence; But O that Critical and unfortunate Prorogation of Parliament! when we took up Arms in <hi>Scotland,</hi> we did not queſtion, but our Allies had been ſafely Intrenched at <hi>Weſtminſter,</hi> but ſure that fatal Councel muſt either be the advice of <hi>Lucifer</hi> or <hi>Landerdale.</hi> But to proceed, another Artifice, of ours conſiſts in that <hi>Hogan Mogan</hi> word of Proteſtant Religion, a name which the people eſteem more Sacred than that which the Diſciples aſſumed at <hi>Antioch,</hi> if I do but cry out the Proteſtant Religion is at ſtake, 'tis as great an alarm as firing of Beacons.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I would gladly know how far you extend that Ti<g ref="char:EOLhyphen"/>tle of Proteſtant Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Why Sir, it is a Latitudinarian word, and ſo comprehenſive, that it may take in almoſt all the world except the Pope and the Devil.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Will that word reach from <hi>Tweed</hi> to <hi>Boſphorus?</hi> and will you make the Grand <hi>Turk</hi> to be a Proteſtant?</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>I ſee no reaſon why he ſhould not be reckoned in our Communion, for he diſowns your Infallibility and Supremacy, and ſcoffs at your Miracle of the Maſs, and is as great an Enemy to Images and Idols as any Jew or Proteſtant in <hi>Holland,</hi> and he is very Orthodox in the De<g ref="char:EOLhyphen"/>crees of Predeſtination, the great Doctrine of Proteſtants, and what is more than all this his Prieſts were no Sur<g ref="char:EOLhyphen"/>plice, Lawn Sleeves nor Rochets, they neither uſe the ſign of Croſs, nor place any Rails at the Eaſt end of the <hi>Moſch,</hi> and the <hi>Mufti</hi> is of the ſame mind with our Presbytery concerning Princes, <q>That whatſoever Prince obey not the Law of God, he is no true <hi>Muſcelman</hi> or Believer, and being become by his filthy Actions an In<g ref="char:EOLhyphen"/>fidel, he is <hi>opſo facto,</hi> fallen from his Throne, and no fur<g ref="char:EOLhyphen"/>ther capable of Authority and Government,<note place="margin">
+                        <hi>See</hi> Paul Rycaunt, <hi>Turkiſh Hiſtory.</hi>
+                     </note> and with his Divinity our <hi>Turkiſh</hi> Brethren Strangled Sultan <hi>Ibrahim,</hi>
+                  </q> in the ſame year <hi>Forty Eight,</hi>
+                  <pb n="11" facs="tcp:58036:6"/>when we by the ſame Maxim cut off <hi>Charles</hi> the Firſt. That in which we moſt diſagree, is, that our Brethren in <hi>Turky</hi> ſtill retain that old Natural Superſtition of Adora<g ref="char:EOLhyphen"/>tion, and when they enter their places of Devotion will with low Proſtrations worſhip God, and for that Reaſon, becauſe he is Monarch of the whole world; but yet this does not ſo much ſcandal me, becauſe I think they do not worſhip to the Eaſt, but I can't approve of their Praying ſo much and Preaching ſo little.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Truly no more do I; for their frequenting their <hi>Moſchs,</hi> their Praying five times a day, their humble De<g ref="char:EOLhyphen"/>votions and Adorations preſerve in their minds an awful notion of a Deity and a Sovereignty, and I wiſh, like you, they would Preach twice a day, and appoint Lectures twice or thrice a week, this would ſo diſtract and amuſe them with Varieties and Novelties, that I believe a good Society of Lecturers would ſooner deſtroy the <hi>Turkiſh</hi> Em<g ref="char:EOLhyphen"/>pire, than all the Arms of <hi>Perſia</hi> and <hi>Chriſtendom,</hi> or the Mutinies of Janizaries; well, you have convinced me that the <hi>Turks</hi> ought to be admitted into the Poll-Book of Proteſtants, and if the <hi>Paſha</hi>'s of <hi>Buda</hi> and <hi>Babylon,</hi> with all the <hi>Beglerbegs, Spahee's</hi> and <hi>Janizaries,</hi> be in the liſt of Proteſtants, I muſt confeſs you to be the moſt formida<g ref="char:EOLhyphen"/>ble Body in the world. But don't you take in the <hi>Greek</hi> Church too into your Proteſtant comprehenſion?</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>No: They are no more true Proteſtants than the Church of <hi>England;</hi> for they have Biſhops and Liturgies, Rites and Ceremonies, and ſuch kind of <hi>Greekery,</hi> for the miſchief is I can't call it <hi>Popery</hi> in them, but they and the reaſon too are ſo far off from <hi>England,</hi> that I hope the Argument will not be diſcerned; but to conclude this, the <hi>Thaumatergick</hi> word of Proteſtant Religion have done our Cauſe ſuch eminent ſervice, that in the next Revo<g ref="char:EOLhyphen"/>lution, when we give new Charters to State and Religi<g ref="char:EOLhyphen"/>on, we deſign to expunge that <hi>Popiſh</hi> Article of Catholick,
+<pb n="12" facs="tcp:58036:7"/>and put the <hi>Proteſtant</hi> Church into the Creed, if it ſhall be thought needful to retain any Creed at all.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Well, I am ſatisfied you have bravely undermi<g ref="char:EOLhyphen"/>ned the Church of <hi>England,</hi> whoſe Ruins will help to Re<g ref="char:EOLhyphen"/>pair the Walls of Old and New <hi>Babylon,</hi> our Church and yours, but pray, what approaches have you made upon the State?</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>You muſt know that the Monarchy and Church of <hi>England,</hi> as they are now Eſtabliſhed, are but one Work, and ſtand upon the ſome bottom, and therefore if the Mine Springs well, both muſt blow up together; but yet I have my peculiar Engins to Aſſault the Throne, as Firſt, powerful Libels, which have more effect than your Bulls, and it will not require ſo much of the Black Art to render this King odious, as it did to ſully the Reputa<g ref="char:EOLhyphen"/>tion of his Father.</p>
+               <p>I have already prepared the people for Rebellion by fears and jealouſies of Arbitrary Power, if any High-Sheriff appears with Buff and Carbine, I tell the people, they are a Troop of <hi>Spahee's,</hi> and the Lord Lieutenant is a <hi>Paſha,</hi> and that <hi>Charles</hi> deſigns to be a <hi>Sultan.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Methinks it is ſo lately ſince your <hi>Oliver</hi> the Firſt was a Grand a Signior as <hi>Amurat</hi> the Fourth, that that Stratagem ſhould have no force upon this Age, for the Cavaliers, by a late Experiment, have more reaſon to fear Arbitrary Government from you, than from their Hereditary Kings, whoſe Intereſt it is to ſecure the Liber<g ref="char:EOLhyphen"/>ty and Property of their Loyal Subject.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>'Tis true, the Saints have a right to an abſolute Dominion, and thoſe who ſhall judg Angels may ſurely condemn Kings and Nobles too, and I grant that there ſhall be no Parliament in the Fifth Monarchy; but this Arbitrary Power muſt not be allowed to the Kings of the Earth: but however I find that this State Mormo of Ar<g ref="char:EOLhyphen"/>bitrary Government, does ſtill fright the Populacy of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+                  <pb n="13" facs="tcp:58036:7"/>and moſt of the Cavaliers are ſuch unconſidering Animals, that though I lately impriſoned them for the maintaining of Liberty, and ſequeſtred them in defence of Property, and put many to death by High-Courts of Juſtice preſerve them from Tyranny, yet they don't believe I will do ſo again, and ſeem to dread Arbitrary Power in none but Lawful Kings; beſides I have a great advantage, for the people of <hi>England</hi> will eaſily credit a Popiſh-Plot, and are very apt to think the worſt of you, but they are not ſo ready to ſuſpect any evil deſigns from me; if I ſhould raiſe a report, that you had by your Con<g ref="char:EOLhyphen"/>juring Power of Tranſubſtantiation transformed an Hun<g ref="char:EOLhyphen"/>dred Thouſand men into Rooks and Crows, and ordered that Flying Army to Rendezvouz at <hi>Black-Heath,</hi> and there to ſhake off their Plumers and appear in Arms, I am confident there are thouſands would believe the ſtory; but they will not believe I have any deſign to Kill the King, till they ſee him upon the Scaffold.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I am ſatisfied you have Planted your Batteries: with great advantage, and have made wide Breaches both upon Church and State, but you want your five hundred Veterans to enter the Breach and compleat the Conqueſt.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>'Tis true, if I can but once again Quarter a Parliament at <hi>Guild-Hall,</hi> or Poſt them at <hi>Weſtminſter,</hi> with the Guard of the City Auxiliaries, the buſineſs were done; for I confeſs we can do nothing in State or Religi<g ref="char:EOLhyphen"/>on without the power of an Ordinance, and I grant you that a Rebellion will not have its due colours or ſtanding force without the Levy and Authority of Parliament; but we are ſecured of a Houſe of Commons of our own Temper, for we have baffled the Gentry and Clergy, and are become the grand Electors of <hi>England;</hi> for by Polling all Cottages and Almſ-Houſes (the frankeſt Tenure of <hi>England</hi>) by a little pardonable Perjury, and ſplitting
+<pb n="14" facs="tcp:58036:8"/>our Free-hold into Atoms for four and twenty hours, we have rendred our ſelves Maſters of Elections; and thus by an immortal oppoſition betwixt King and Parliament, we have rendred the Conſtitution unpracticable, and reduced the Government to this Dilemma, that either we muſt have a King without a Parliament, which is an <hi>Engliſh</hi> impoſſibility, or elſe a Parliament without a King, and for that, you know, we have a Precedent, and therefore the hopes and advantage lies on our ſide.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>If you could give theſe Elect Creatures of yours a fixed being or a Politick immortality, all were done; but the King perverſly retains that Reprobating power of Prorogation and Diſſolution, and begins to learn how and when to uſe it.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>This indeed is the greateſt difficulty of our af<g ref="char:EOLhyphen"/>fairs; but to maſter this we muſt uſe all imaginable Arts to diſtreſs the King; for as we cannot have a Parliament without the King, ſo he can have no money without us; now to bring him into neceſſities, we will invite our friends in <hi>Barbary</hi> to infeſt the Seas; and our Proteſtant Neighbours have lately furniſhed them with Ammuniti<g ref="char:EOLhyphen"/>on for that purpoſe. You muſt by your Nuncio at <hi>Paris</hi> prevent the League with <hi>France,</hi> and I do not queſtion but my Friends and Intereſt to hinder an Alliance with the <hi>Dutch.</hi> But if all theſe methods ſhould be defeated, I have one Stratagem left, which muſt effect our deſigns, and that is the Artifice of Petitioning, and though I would not have the Nation agree in one common Form of Prayer to God Almighty, yet I will perſuade all the Counties of <hi>England</hi> to combine in one Petition to the King for the Seſſion of a Parliament. Now for Subjects to Petition their Prince ſeems at firſt ſight ſuch a plauſible Right, and ſo juſt a Liberty, that it would be thought Tyranny to diſguſt it, and I do not queſtion, but to court one Hundred Thouſand Hands into a Subſcription, and
+<pb n="15" facs="tcp:58036:8"/>thus I have liſted a Formidable Army without beating of a Drum, and if the Gentleman at <hi>white-Hall</hi> ſhall affront our leading Petitioners, the whole aſſociation will be ob<g ref="char:EOLhyphen"/>liged to take the Field in Defence of Liberty, Property, and Petitions.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I acknowledg your proceedings are brave, and ſomething hopeful, but I think you did commit an error in Politicks, by your too bold and open affronts upon the Throne, for when you had a Parliament of your own Family, you ſhould have ſweetly diſſembled your deſigns and wrought the Mine under ground, and not given ſuch open defiance to Prerogative; there was a time when the King caſt himſelf into the Arms of his Parliament, and then you might have Killed him with embraces, you ſhould have Worſhipped him, cloathed him with Purple, and Pourted him with flattering Addreſſes, but you ſhould not have ſhewed him the Crown of Thorns, till you had brought him to the Judgment-Hall, for now your bare<g ref="char:EOLhyphen"/>faced affronteries have rendred him jealous of your de<g ref="char:EOLhyphen"/>ſigns, and may put him upon ſome deſperate Counſels to obviate your contrivances; for your Plots againſt the Government are now more manifeſt than mine; but this I will ſay; if you can Ruin three Kingdoms twice in one Age, you deſerve the Triple Crown as well as I.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Hold, Sir, Now uſe your Omnipotence of Tran<g ref="char:EOLhyphen"/>ſubſtantiation, vaniſh into Air, transform your ſelf into a Wafer, (for ſure that is as eaſie as to change a Wa<g ref="char:EOLhyphen"/>fer into a Man, or which is more, into a God;) here comes an Unconverted Cavalier, a Worſhiper of Kings and Biſhops, and if he diſcovers my Company and Con<g ref="char:EOLhyphen"/>reſpondence with you, we are undone.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>I ſee him, and he is ſo far advanced already that he muſt have obſerved us; and there is no remedy left, but to delude him with the wonted Artifice of Railing upon each other, and begin as ſoon, and as loud as you can.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:58036:9"/>
+               <speaker>Phan.</speaker>
+               <p>You Anti-Chriſt the Great, the Spiritual <hi>Paſha</hi> of Myſtical <hi>Babylon,</hi> the great Hocus Pocus of Chri<g ref="char:EOLhyphen"/>ſtendom, Son of the Scarlet Whore, the Incendiary and Deceiver of the Nations, you man of ſin and Pandor to the Devil.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>You Apocryphal Spawn of Bel and the Dragon, you ill-looking, ill-natured Phanatick, the ſhame of Humanity, the ſcandal of Chriſtendom, the Plague of Governments, you are the Beaſt and the falſe Prophet, and your Numbers are the Locuſts that came out of the bottomleſs Pit; you are the perfection of Impudence, Impiety and Hypocriſie.</p>
+            </sp>
+            <sp>
+               <speaker>Cavalier.</speaker>
+               <p>Very fine in troth! Do you think me to be ſo blind, that nothing can reſtore my ſight but a Miracle? No, you are miſtaken, I have a long time ſuſpected your compliance, but now both mine Eyes and mine Ears have aſſured me of your Confederacy: I know which is the eldeſt, but 'tis not eaſie to determine who is the greateſt Knave of you two; You, Mr. <hi>Pope,</hi> damn me for a He<g ref="char:EOLhyphen"/>retick, and your Brother Phanatick Blaſphemes me for a Papiſt, but though the next Succeſſor to the Crown ſhould come from <hi>Rome</hi> or <hi>Leyden,</hi> I would never be a Rebel, nor ſhould all the Power or Prerogative upon Earth, ever ob<g ref="char:EOLhyphen"/>lige me to be a Papiſt or Presbyterian; I am of the ſame Church and Religion with <hi>Polycarpus,</hi> St. <hi>Ignatius,</hi> St. <hi>Gre<g ref="char:EOLhyphen"/>gory Nazianzen</hi> and <hi>Nyſſen,</hi> St. <hi>Baſil,</hi> St. <hi>Chryſoſtom</hi> and St. <hi>Cyprian;</hi> Who were Friends to Biſhops and Liturgies, Decent Rites and Ceremonies in Publick Worſhip, and yet were neither Papal nor Phanatical, and I hope, it will not be long, before all the Princes of Chriſtendom will ſee it their Intereſt to be Enemies to you both. As for your preſent Intrigue of Petitioning, you have told the people in plauſible Cant, that it is one of the excel<g ref="char:EOLhyphen"/>lencies of the King of Kings to hear the Prayers of them who are but Duſt and Aſhes, and that the King would
+<pb n="17" facs="tcp:58036:9"/>but reſemble a Deity in a Gracious Receiving and Gran<g ref="char:EOLhyphen"/>ting Petitions, but like your old Friend that tempted our Saviour, you conceal the moſt material part of the Divi<g ref="char:EOLhyphen"/>nity; for ſure according to the due reſtrictions of Reli<g ref="char:EOLhyphen"/>gion and Allegiance we are obliged to ask nothing from God or the King, but what is eſſentially Good and Juſt, and agreeable to their declared Will and Pleaſure; but for men or ſubjects to confine Providence or Prerogative to the Modes and Meaſures of their private humors, is neither Devotion to God, nor good Manners to the King.</p>
+               <p>And if Popular Petitions be ſo juſt a Right of the Sub<g ref="char:EOLhyphen"/>ject, I would fain know why we might not as lawfully Petition the King for the Diſſolving of this Parliament, as you do for the Sitting of it. I am ſure we have as much Reaſon and Liberty as you, only we have more Manners and Submiſſion, and think it not Dutiful in Subjects to impoſe upon their Sovereign with Impudent and Tumul<g ref="char:EOLhyphen"/>tuous Suggeſtions. By this Method of Petitioning you would render His Majeſties Government Precarious in the moſt literal ſenſe; and when he has granted your Pe<g ref="char:EOLhyphen"/>titions, it will not be long before you requite his Grace with a Vote of non-Addreſſes. I confeſs your Factious Conſpiracies have rendred our happy Conſtitution Un<g ref="char:EOLhyphen"/>practicable, and brought the Government into ſuch a Dilemma, that there is no Medium to be fancied betwixt Empire and Common-wealth, and the King muſt either reſolve to take up the Imperial Crown, or prepare to lay down his Head, for he muſt either ſuffer the eternal af<g ref="char:EOLhyphen"/>fronts of ill humored Parliaments, or by his Supream wiſdom contrive ſome more quiet or ſafer method of Ele<g ref="char:EOLhyphen"/>ctions. I have ſeen an Oration made by <hi>Mecaenas</hi> to one of the Popes <hi>Pagan</hi> Predeceſſors. <hi>Auguſtus Caeſar;</hi> wherein he adviſed him to aſſume the Monarchy, but wiſely ſug<g ref="char:EOLhyphen"/>geſted to him that he ſhould not make his ſudden paſſions
+<pb n="18" facs="tcp:58036:10"/>and ſingle will, the Laws and Edicts of his Empire; but to provide a Graver Senate, that ſhould be his Grand Council in the important affairs of Government, a Con<g ref="char:EOLhyphen"/>ſulting with whom would add Weight and Solemnity to his Imperial Sanctions, but then he added this Politick caution, that he ſhould never grant the people that dan<g ref="char:EOLhyphen"/>gerous favour to Elect the Members of this Senate; for then, ſays he, your Empire will be expoſed to Po<g ref="char:EOLhyphen"/>pular Factions and Tumults; every Election will fer<g ref="char:EOLhyphen"/>ment the humors of the Populacy, and occaſion ſuch Convulſions in the State, that you will never be ſecure of any ſafety at home, or Glory abroad; and therefore to prevent thoſe fatal miſchiefs, it was his Counſel to <hi>Caeſar,</hi> that he ſhould by the ſtricteſt enquiry ſearch in all parts of his Dominions for men of the greateſt Wiſdom, Integrity, and Merit, who could not be ſuppoſed to be Friends, either to Tyranny or Anarchy, and by his Impe<g ref="char:EOLhyphen"/>rial Authority to conſtitute theſe his great Council, without any noiſe or ruffle to his Empire.</p>
+               <p>You know I am a Member of the Un-rebelling Church of <hi>England,</hi> and if your amuſing proſpects of Futurity can ſuppoſe ſuch a Monſtroſity in Government, as a Prince ſhould uſe his Prerogative to deſtroy his Peaceable Sub<g ref="char:EOLhyphen"/>jects, yet I would rather be ruined by the Diviner hand of a Monarch, than be worried by the baſer Tyranny of a Phanatick Common wealth.</p>
+               <p>Now ſince you have made Covenants and Aſſociations to Ruin, the Government of Church and State, we are reſolved to unite in the defence of both. It is, evident enough by your Plots and Petitions that you deſign ano<g ref="char:EOLhyphen"/>ther War, and ſeeing nothing can be expected from an<g ref="char:EOLhyphen"/>other Triumphant Phanatick Army, but the utter extir<g ref="char:EOLhyphen"/>pation of the Monarchy, and all the Loyal, Nobility Clergy, and Gentry; we do therefore declare that we will ſpeedily ſurniſh our ſelves with Arms and Ammuni<g ref="char:EOLhyphen"/>tion
+<pb n="19" facs="tcp:58036:10"/>for us and our dependants, and upon the firſt notice of a Rebellion, we will repair to the Royal Standard, re<g ref="char:EOLhyphen"/>ſolving to make a ſhort end of the Controverſie, and ei<g ref="char:EOLhyphen"/>ther to die in the Field, and not to behold the Second Ru<g ref="char:EOLhyphen"/>in of Church and State, or elſe, by a final Conqueſt, to Purchaſe to this Nation an everlaſting freedom from Phanatick inſolence and diſturbance; and may that hand be held up at the Bar of an High-Court of Juſtice, that will not ſubſcribe this Union and Reſolution.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
